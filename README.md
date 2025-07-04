@@ -4,7 +4,7 @@ A Python GUI-based product management system with MSSQL integration, user authen
 
 This project is a desktop-based GUI application built with Python, providing product and user management capabilities through an MSSQL database. It incorporates user authentication, password recovery via email, product addition with image and date selection, and real-time camera access using OpenCV.
 
-## 👨‍💻 Contributor
+# 👨‍💻 Contributor
 - Tolga Ünlü
 Install dependencies:
 pip install pyodbc
@@ -25,7 +25,7 @@ pip install tkcalendar
 - `tkcalendar` – Calendar Widget  
 - `MSSQL` – Database Backend
 
-## 🛠 Features
+# 🛠 Features
 
 - **User Login with Combobox Selection**  
   - Users are listed via a `ttk.Combobox`, and authentication is handled through `tk.Entry`.
@@ -47,7 +47,7 @@ pip install tkcalendar
 - **Real-time Camera Access**  
   - OpenCV is used to access and display live camera feed from within the app.
 
-## 🗂 MSSQL Configuration
+# 🗂 MSSQL Configuration
 
 To run the project locally:
 
